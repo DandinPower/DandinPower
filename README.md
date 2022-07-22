@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Liao, Yong-Cheng (DandinPower) </h1>
 
 <h3 align="center">📚 I’m currently studying Computer Science at Taipei Tech </h3>
-<h3 align="center">💻 I’m currently learning DeepLearning, NLP, Web Backend and trying to apply those knowledge more deeply. </h3>
+<h3 align="center">💻 I’m currently learning DeepLearning, NLP, Backend and trying to apply these knowledge more deeply. </h3>
 
 <h1 align="center">⚙️ Language & tools </h1>
 <p align="center">
