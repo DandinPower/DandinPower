@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Liaw, Yong-Cheng (DandinPower) </h1>
 
-<h3 align="center">📚 I'm currently studying computer science in my senior grade at Taipei Tech </h3>
+<h3 align="center">📚 I am currently studying for a Master's Degree at the Institute of Artificial Intelligence Innovation.</h3>
 <h3 align="center">💻 I am interested in Web Development, Backend, and DeepLearning and am trying to acquire them. </h3>
 
 <h1 align="center"> Language & tools </h1>
