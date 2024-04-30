@@ -6,8 +6,8 @@
 <h1 align="center"> Artificial Intelligence </h1>
 <p align="center">
     <img width="50px" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" alt="Python" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" />
     <img width="50px" src="https://hackmd.io/_uploads/B17DDxCb0.svg" alt="Huggingface" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" /> 
     <img width="50px" src="https://icongr.am/devicon/cplusplus-original.svg?size=36&color=currentColor" alt="C++">
     <img width="50px" src="https://icongr.am/devicon/c-original.svg?size=36&color=currentColor" alt="C" />
