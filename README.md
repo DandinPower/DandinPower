@@ -25,12 +25,9 @@
 <p align="center">
     <img width="50px" src="https://icongr.am/devicon/github-original.svg?size=36&color=currentColor" alt="Github" />
     <img width="50px" src="https://icongr.am/devicon/git-original.svg?size=36&color=currentColor" alt="Git" />
+    <img width="50px" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="Docker" />
     <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" /> 
     <img width="50px" src="https://icongr.am/devicon/linux-original.svg?size=36&color=currentColor" alt="Linux" /> 
-    <img width="50px" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="Docker" />
-    <img width="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" />
-    <img width="50px" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor" alt="Gitlab" />
-    <img width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins"/>
 </p>
 
 <h1 align="center"> ⚡️ My Github Stats </h1>
