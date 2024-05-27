@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Liaw, Yong-Cheng </h1>
 
 <h3 align="center">📚 I am currently studying for a Master's Degree at the Institute of Artificial Intelligence Innovation.</h3>
-<h3 align="center">💻 I am interested in DeepLearning, Artificial Intelligence System Optimization. </h3>
+<h3 align="center">💻 I am interested in DeepLearning, Machine Learning System Optimization. </h3>
 
 <h1 align="center"> Artificial Intelligence </h1>
 <p align="center">
