@@ -33,5 +33,5 @@
 <h1 align="center"> ⚡️ My Github Stats </h1>
 <p align="center">
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=DandinPower&show_icons=true&hide=issues&theme=buefy">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandinPower&layout=compact&theme=buefy">
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandinPower&layout=compact&theme=buefy&hide=jupyter%20notebook">
 </p>
