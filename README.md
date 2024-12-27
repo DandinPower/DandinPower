@@ -2,7 +2,7 @@
 
 I am currently pursuing a Master’s degree in Artificial Intelligence Innovation at National Yang Ming Chiao Tung University. With a stellar GPA of 4.26/4.3 and multiple honors and scholarships, I aim to further my academic journey with a PhD in Computer Science, contributing to advancements in the field.
 
-📄 Learn more about my achievements and experiences on [LinkedIn]([link](https://www.linkedin.com/in/yongchengliaw/)).
+📄 Learn more about my achievements and experiences on ([LinkedIn](https://www.linkedin.com/in/yongchengliaw/)).
 ## 🧑‍💻 Open Source Contributions
 
 ### GPT Researcher
