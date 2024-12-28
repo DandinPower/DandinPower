@@ -9,7 +9,7 @@ I am currently pursuing a Master’s degree in Artificial Intelligence Innovatio
 
 A Multi-Agent LLM workflow designed to leverage diverse source documents and LLMs to create comprehensive research reports.
 
-- Resolved redundancy in research reports ([#548](https://github.com/assafelovic/gpt-researcher/issues/548)).
+- Address the issue of redundancy in the researched report ([#548](https://github.com/assafelovic/gpt-researcher/issues/548)).
 - Designed a workflow ([#713](https://github.com/assafelovic/gpt-researcher/pull/713)) for temporary data storage and retrieval to enhance drafting new sections.
 - Improved the overall quality of generated reports.
 
