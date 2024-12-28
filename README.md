@@ -36,6 +36,6 @@ A Multi-Agent LLM workflow designed to leverage diverse source documents and LLM
 ## ⚡️ My GitHub Stats
 
 <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=DandinPower&show_icons=true&hide=issues&theme=buefy">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=DandinPower&show_icons=true&theme=buefy">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandinPower&layout=compact&theme=buefy&hide=jupyter%20notebook">
 </p>
