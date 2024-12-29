@@ -1,9 +1,17 @@
 # 👋 Hi, I'm Liaw Yong-Cheng
 
-I am currently pursuing a Master’s degree in Artificial Intelligence Innovation at National Yang Ming Chiao Tung University. With a stellar GPA of 4.26/4.3 and multiple honors and scholarships, I aim to further my academic journey with a PhD in Computer Science, contributing to advancements in the field.
+I am currently pursuing a Master’s degree in Artificial Intelligence Innovation at National Yang Ming Chiao Tung University. With multiple honors and scholarships, I aim to further my academic journey with a PhD in Computer Science, contributing to advancements in the ML/AI systems field.
 
 📄 Learn more about my achievements and experiences on ([LinkedIn](https://www.linkedin.com/in/yongchengliaw/)).
 ## 🧑‍💻 Open Source Contributions
+
+### Liger Kernel
+
+Efficient Triton Kernels for LLM Training that significantly reduce GPU memory usage and improve performance.
+
+- Addressed the dtype mismatch in AMP training scenarios and resolved uncovered scenarios in test cases for the core functionality of the Liger Kernel (Fused Linear Cross Entropy). ([#501](https://github.com/linkedin/Liger-Kernel/issues/501))
+- Designed and performed a deep analysis of the advantages and disadvantages of different solutions to fix the dtype mismatch problem ([#502](https://github.com/linkedin/Liger-Kernel/pull/502)), ensuring optimal performance in terms of memory usage and latency.
+
 
 ### GPT Researcher
 
