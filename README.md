@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Liaw Yong-Cheng
+# 👋 Hi, I'm Joseph Liaw
 
 I am currently pursuing a Master’s degree in Artificial Intelligence Innovation at National Yang Ming Chiao Tung University. With multiple honors and scholarships, I aim to further my academic journey with a PhD in Computer Science, contributing to advancements in the ML/AI systems field.
 
