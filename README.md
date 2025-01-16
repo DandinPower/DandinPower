@@ -21,7 +21,7 @@ A Multi-Agent LLM workflow designed to leverage diverse source documents and LLM
 - Designed a workflow ([#713](https://github.com/assafelovic/gpt-researcher/pull/713)) for temporary data storage and retrieval to enhance drafting new sections.
 - Improved the overall quality of generated reports.
 
-## 🛠 Skills and Tools
+## 🛠 Familiar Skills and Tools
 
 <p align="center">
     <img width="50px" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" alt="Python" />
