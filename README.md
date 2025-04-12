@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joseph Liaw
 
-I am currently pursuing a Master’s degree in Artificial Intelligence Innovation at National Yang Ming Chiao Tung University. With multiple honors and scholarships, I aim to further my academic journey with a PhD in Computer Science, contributing to advancements in the ML/AI systems field.
+I am currently pursuing a Master’s degree in Artificial Intelligence Innovation at National Yang Ming Chiao Tung University. Having received multiple honors and scholarships, I am committed to contributing to advancements in the field of ML/AI systems.
 
 📄 Learn more about my achievements and experiences on ([LinkedIn](https://www.linkedin.com/in/yongchengliaw/)).
 ## 🧑‍💻 Open Source Contributions
