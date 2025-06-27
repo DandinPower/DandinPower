@@ -3,9 +3,10 @@
 I am currently pursuing a Master’s degree in Artificial Intelligence Innovation at National Yang Ming Chiao Tung University. Having received multiple honors and scholarships, I am committed to contributing to advancements in the field of ML/AI systems.
 
 📄 Learn more about my achievements and experiences on ([LinkedIn](https://www.linkedin.com/in/yongchengliaw/)).
-## 🧑‍💻 Open Source Contributions
 
-### Liger Kernel
+# 🧑‍💻 Open Source Contributions
+
+## Liger Kernel
 
 Efficient Triton Kernels for LLM Training that significantly reduce GPU memory usage and improve performance.
 
@@ -13,7 +14,7 @@ Efficient Triton Kernels for LLM Training that significantly reduce GPU memory u
 - Designed and performed a deep analysis of the advantages and disadvantages of different solutions to fix the dtype mismatch problem ([#502](https://github.com/linkedin/Liger-Kernel/pull/502)), ensuring optimal performance in terms of memory usage and latency.
 
 
-### GPT Researcher
+## GPT Researcher
 
 A Multi-Agent LLM workflow designed to leverage diverse source documents and LLMs to create comprehensive research reports.
 
@@ -21,7 +22,7 @@ A Multi-Agent LLM workflow designed to leverage diverse source documents and LLM
 - Designed a workflow ([#713](https://github.com/assafelovic/gpt-researcher/pull/713)) for temporary data storage and retrieval to enhance drafting new sections.
 - Improved the overall quality of generated reports.
 
-## 🛠 Familiar Skills and Tools
+# 🛠 Familiar Skills and Tools
 
 <p align="center">
     <img width="50px" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" alt="Python" />
@@ -34,9 +35,13 @@ A Multi-Agent LLM workflow designed to leverage diverse source documents and LLM
     <img width="50px" src="https://icongr.am/devicon/linux-original.svg?size=36&color=currentColor" alt="Linux" />
 </p>
 
+
+
+<!--
 ## ⚡️ My GitHub Stats
 
 <p align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=DandinPower&show_icons=true&theme=buefy">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandinPower&layout=compact&theme=buefy&hide=jupyter%20notebook">
 </p>
+-->
